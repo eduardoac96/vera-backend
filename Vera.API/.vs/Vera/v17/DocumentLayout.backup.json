@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\vera-backend\\Vera.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7A7D69-833A-4475-92FA-4E1D9204B3BC}|..\\Vera.Infrastructure\\Vera.Infrastructure.csproj|c:\\dev\\vera-backend\\vera.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8545C2E6-2F5E-40A7-8D75-7E10C82693D0}|Vera.API.csproj|c:\\dev\\vera-backend\\vera.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8545C2E6-2F5E-40A7-8D75-7E10C82693D0}|Vera.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFE3B3E-36C8-451C-8BC0-92B2B5AE2C94}|..\\Vera.Application\\Vera.Application.csproj|c:\\dev\\vera-backend\\vera.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7A7D69-833A-4475-92FA-4E1D9204B3BC}|..\\Vera.Infrastructure\\Vera.Infrastructure.csproj|c:\\dev\\vera-backend\\vera.infrastructure\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\dev\\vera-backend\\Vera.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\Vera.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\dev\\vera-backend\\Vera.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "..\\Vera.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:14:33.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\vera-backend\\Vera.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\vera-backend\\Vera.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:14:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\dev\\vera-backend\\Vera.Infrastructure\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Vera.Infrastructure\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\dev\\vera-backend\\Vera.Infrastructure\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Vera.Infrastructure\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T23:13:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\dev\\vera-backend\\Vera.Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "..\\Vera.Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\dev\\vera-backend\\Vera.Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "..\\Vera.Application\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:43:39.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
